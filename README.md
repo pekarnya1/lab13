@@ -5,6 +5,7 @@
 
    
 ### Блок-схема
+<img width="251" height="671" alt="image" src="https://github.com/user-attachments/assets/72161cd6-218a-489f-a4e8-cd2a99b1bf9a" />
 
 
 
@@ -56,5 +57,6 @@ int main()
 ```
 
 
-![Uploading image.png…]()
+<img width="823" height="250" alt="image" src="https://github.com/user-attachments/assets/ca8be067-7f96-4531-8d8f-82b98a8d70a6" />
+
 
